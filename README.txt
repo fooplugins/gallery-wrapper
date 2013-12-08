@@ -1,5 +1,11 @@
-Gallery Wrapper WordPress Plugin
-================================
+=== Gallery Wrapper ===
+Contributors: bradvin
+Tags: gallery
+Requires at least: 3.5.1
+Tested up to: 3.8
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Customize the CSS class names within the HTML that is output from the WordPress gallery shortcode
 
@@ -22,3 +28,35 @@ The above example will result in the following:
 
 Any extra attributes added to the shortcode will be appended onto the surrounding div element. This is helpful for adding data attributes or anything you like really.
 
+== Installation ==
+
+This section describes how to install the plugin and get it working.
+
+e.g.
+
+= Using The WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Search for 'Gallery Wrapper'
+3. Click 'Install Now'
+4. Activate the plugin on the Plugin dashboard
+
+= Uploading in WordPress Dashboard =
+
+1. Navigate to the 'Add New' in the plugins dashboard
+2. Navigate to the 'Upload' area
+3. Select `gallery-wrapper.zip` from your computer
+4. Click 'Install Now'
+5. Activate the plugin in the Plugin dashboard
+
+= Using FTP =
+
+1. Download `gallery-wrapper.zip`
+2. Extract the `gallery-wrapper` directory to your computer
+3. Upload the `gallery-wrapper` directory to the `/wp-content/plugins/` directory
+4. Activate the plugin in the Plugin dashboard
+
+== Changelog ==
+
+= 1.0.0 =
+* first release
