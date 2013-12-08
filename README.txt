@@ -17,7 +17,7 @@ Simply wrap your existing gallery shortcodes with this new "gallery-wrap" shortc
 
 `[gallery-wrap class="cool-gallery" img_class="cool-img" a_class="cool-anchor" data-foo="bar"]
  	[gallery link="file" ids="8,9,10,11,5"]
- [/gallery-wrap]'
+[/gallery-wrap]`
 
 The above example will result in the following:
 
